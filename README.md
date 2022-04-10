@@ -5,7 +5,8 @@
 Members: Songqiao Han (s2889803), Dun Dai (s2777607), Chao Fu (s2918668), Chentao Liu (s3083853), Zijin Gu (s2797658), Xintong Jiang (s2898144).
 
 ## Introduction
-This assignment is meant to practice skills of using Relational DBs, SQL, ORM. A relational database [create](create.db) and and a corresponding Python access package [GradeDB](gradeDB.py) to maintain were created. This database can be regarded as a system to maintain evaluations.
+In this assignment, we will try to create a database and manage it through what we have learned in order to _MAINTAIN_ questions, answers, evaluations and grades. 
+We will try to first create a [schema.pdf](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/Schema.pdf) to show all the database relationships, then based on these relationships, we will create a [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py) in the python. After that, we will create a [gradedb.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/gradedb.py) to show all the methods we want, including **addStudent()**, **addQuestion()**, **addTask()**, **addAssignment()**, **newSubmission()**, **addAnswer()**, **commitSubmission()**, **newEvaluation()**, **addScore()**, **commitEvaluation()**.
 
 ## Project Files
 ### Database content
