@@ -1,5 +1,5 @@
-# Assignment for Essentials for Data Science:Group which?
-Group members: Songqiao Han (s2889803), Dun Dai (s2777607), Chao Fu (s2918668), Chentao Liu (s3083853), Zijin Gu (s2797658), Xintong Jiang (s2898144).
+# Assignment for Essentials for Data Science:Group 4
+members: Songqiao Han (s2889803), Dun Dai (s2777607), Chao Fu (s2918668), Chentao Liu (s3083853), Zijin Gu (s2797658), Xintong Jiang (s2898144).
 
 ## Introduction
 This assignment is meant to practice skills of using Relational DBs, SQL, ORM. A relational database [create](create.db) and and a corresponding Python access package [GradeDB](gradeDB.py) to maintain were created. This database can be regarded as a system to maintain evaluations.
