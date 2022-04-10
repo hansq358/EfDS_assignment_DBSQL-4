@@ -18,4 +18,3 @@ access methods to the database: [gradedb.py](gradedb.py)
 - A report shows a general summary important to students: [student_summary.ipynb](student_summary.ipynb)
 - A report shows all details of students from the database: [student_details.ipynb](student_details.ipynb)
 - A report shows process of students' task   [teacher_summary.ipynb](teacher_summary.ipynb)
-1
