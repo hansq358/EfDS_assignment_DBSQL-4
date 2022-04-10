@@ -1,5 +1,5 @@
 # EfDS_assignment_DBSQL-4
- <a href='https://github.com/hansq358/EfDS_assignment_DBSQL-4'><img src='leiden' align="right" height="139" /></a>
+ <a href='https://github.com/hansq358/EfDS_assignment_DBSQL-4'><img src='leiden.png' align="right" height="139" /></a>
 
 # Assignment for Essentials for Data Science: Group 4
 Members: Songqiao Han (s2889803), Dun Dai (s2777607), Chao Fu (s2918668), Chentao Liu (s3083853), Zijin Gu (s2797658), Xintong Jiang (s2898144).
