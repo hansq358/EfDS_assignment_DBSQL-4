@@ -1,64 +1,21 @@
-# EfDS_assignment_DBSQL-4
-# Group members: Songqiao Han (s2889803), Dun Dai (s2777607), Chao Fu (s2918668), Chentao Liu (s3083853), Zijin Gu (s2797658), Xintong Jiang (s2898144).
-一、标题写法：
-第一种方法：
-1、在文本下面加上 等于号 = ，那么上方的文本就变成了大标题。等于号的个数无限制，但一定要大于0个哦。。
-2、在文本下面加上 下划线 - ，那么上方的文本就变成了中标题，同样的 下划线个数无限制。
-3、要想输入=号，上面有文本而不让其转化为大标题，则需要在两者之间加一个空行。
-另一种方法：（推荐这种方法；注意⚠️中间需要有一个空格）
-关于标题还有等级表示法，分为六个等级，显示的文本大小依次减小。不同等级之间是以井号  #  的个数来标识的。一级标题有一个 #，二级标题有两个# ，以此类推。
-例如：
-# 一级标题  
-## 二级标题  
-### 三级标题  
-#### 四级标题  
-##### 五级标题  
-###### 六级标题 
-二、编辑基本语法  
-1、字体格式强调
- 我们可以使用下面的方式给我们的文本添加强调的效果
-*强调*  (示例：斜体)  
- _强调_  (示例：斜体)  
-**加重强调**  (示例：粗体)  
- __加重强调__ (示例：粗体)  
-***特别强调*** (示例：粗斜体)  
-___特别强调___  (示例：粗斜体)  
-2、代码  
-`<hello world>`  
-3、代码块高亮  
-```
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
-```  
-4、表格 （建议在表格前空一行，否则可能影响表格无法显示）
- 
- 表头  | 表头  | 表头
- ---- | ----- | ------  
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容  
- 
-5、其他引用
-图片  
-![图片名称](https://www.baidu.com/img/bd_logo1.png)  
-链接  
-[链接名称](https://www.baidu.com/)    
-6、列表 
-1. 项目1  
-2. 项目2  
-3. 项目3  
-   * 项目1 （一个*号会显示为一个黑点，注意⚠️有空格，否则直接显示为*项目1） 
-   * 项目2   
- 
-7、换行（建议直接在前一行后面补两个空格）
-直接回车不能换行，  
-可以在上一行文本后面补两个空格，  
-这样下一行的文本就换行了。
-或者就是在两行文本直接加一个空行。
-也能实现换行效果，不过这个行间距有点大。  
- 
-8、引用
-> 第一行引用文字  
-> 第二行引用文字   
+#Assignment for Essentials for Data Science:Group which?
+
+Group members: Songqiao Han (s2889803), Dun Dai (s2777607), Chao Fu (s2918668), Chentao Liu (s3083853), Zijin Gu (s2797658), Xintong Jiang (s2898144).
+
+##Introduction
+This assignment is meant to practice skills of using Relational DBs, SQL, ORM. A relational database [create](create.db) and and a corresponding Python access package [GradeDB](gradeDB.py) to maintain were created. This database can be regarded as a system to maintain evaluations.
+
+##Project Files
+###Database content
+- A github markdown file shortly describing the project: [readme.md](readme.md)
+- A Python.py file containing definitions of the main project class GradeDB providing
+access methods to the database: [gradedb.py](gradedb.py)
+- A pdf displaying the schema of the database: [schema.pdf](schema.pdf)
+- A text file with SQL code creating the database tables: [create.sql](create.sql)
+- A  Python file with SQLAlchemy description of the database tables: [schema.py](schema.py)
+- A notebook which initializes the database with some random content: [random_init.ipynb](random_init.ipynb)
+
+###Database summary
+- A report shows a general summary important to students: [student_summary.ipynb](student_summary.ipynb)
+- A report shows all details of students from the database: [student_details.ipynb](student_details.ipynb)
+- A report shows process of students' task   [teacher_summary.ipynb](teacher_summary.ipynb)
