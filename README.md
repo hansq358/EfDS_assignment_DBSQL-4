@@ -14,14 +14,14 @@ In this assignment, we aim to create a database using SQLAlchemy and implement f
 ## Project Files
 ### Database content
 - A github markdown file shortly describing the project (contributed by _Songqiao Han_, _Dun Dai_, _Zijin Gu_): [readme.md](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/README.md)
-- A Python.py file containing definitions of the main project class GradeDB providing
+- A pure Python.py file containing definitions of the main project class **GradeDB** providing
 access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chentao Liu_): [gradedb.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/gradedb.py)
-- A pdf displaying the schema of the database (contributed by all group members): [schema.pdf](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.pdf)
-- A Python file with SQLAlchemy description of the database tables (contributed by _Xintong Jiang_, _Chentao Liu_): [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py)
-- A notebook which initializes the database with some random content (contributed by _Chentao Liu_, _Dun Dai_, _Zijin Gu_, _Xintong Jiang_): [random_init.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/random_init.ipynb)
+- A pdf displaying the schema of the database relationships. (contributed by all group members): [schema.pdf](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.pdf)
+- A pure Python file with SQLAlchemy description of the database tables (contributed by _Xintong Jiang_, _Chentao Liu_): [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py)
+- A notebook which initializes the database with some random generating content (contributed by _Chentao Liu_, _Dun Dai_, _Zijin Gu_, _Xintong Jiang_): [random_init.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/random_init.ipynb)
 
 ### Database summary
-- A report shows a general summary important to students (contributed by _Songqiao Han_, _Chao Fu_): [student_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_summary.ipynb)
-- A report shows all details of students from the database (contributed by _Songqiao Han_, _Chao Fu_): [student_details.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb)
-- A report shows process of students' task (contributed by _Songqiao Han_, _Chao Fu_): [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb)
+- A notebook, shows a general summary to students which mainly including total grades for evaluated reports (contributed by _Songqiao Han_, _Chao Fu_): [student_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_summary.ipynb)
+- A notebook, shows all details of students which mainly including scores for each evaluated question (contributed by _Songqiao Han_, _Chao Fu_): [student_details.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb)
+- A notebook, shows when grouped tasks, the totals numbers of: students assigned to the task, already submitted solutions, already evaluated solutions and pending for evaluation. (contributed by _Songqiao Han_, _Chao Fu_): [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb)
 
