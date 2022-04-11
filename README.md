@@ -28,8 +28,13 @@ access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chenta
 ## Usage
 ### Packages 
 - **os**
+- **enum**
+- **venv**
 - **pandas**
 - **numpy**
 - **random**
+- **email**
+- **pickle**
+- **tkinter**
 - **sqlalchemy**
-- ****
+- **matplotlib**
