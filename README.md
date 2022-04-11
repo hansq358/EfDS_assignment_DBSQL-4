@@ -21,7 +21,7 @@ access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chenta
 - A notebook which initializes the database with some random generating content (contributed by _Chentao Liu_, _Dun Dai_, _Zijin Gu_, _Xintong Jiang_): [random_init.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/random_init.ipynb)
 
 ### Database summary
-- A notebook, shows a general summary to students which mainly including total grades for evaluated reports (contributed by _Songqiao Han_, _Chao Fu_): [student_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_summary.ipynb)
-- A notebook, shows all details of students which mainly including scores for each evaluated question (contributed by _Songqiao Han_, _Chao Fu_): [student_details.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb)
-- A notebook, shows when grouped tasks, the totals numbers of: students assigned to the task, already submitted solutions, already evaluated solutions and pending for evaluation. (contributed by _Songqiao Han_, _Chao Fu_): [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb)
+- A notebook shows a general summary to students which mainly including total grades for evaluated reports (contributed by _Songqiao Han_, _Chao Fu_): [student_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_summary.ipynb)
+- A notebook shows all details of students which mainly including scores for each evaluated question (contributed by _Songqiao Han_, _Chao Fu_): [student_details.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb)
+- A notebook shows when grouped tasks, the totals numbers of: students assigned to the task, already submitted solutions, already evaluated solutions and pending for evaluation. (contributed by _Songqiao Han_, _Chao Fu_): [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb)
 
