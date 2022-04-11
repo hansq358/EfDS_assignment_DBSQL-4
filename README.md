@@ -25,3 +25,11 @@ access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chenta
 - A notebook shows all details of students which mainly including scores for each evaluated question (contributed by _Songqiao Han_, _Chao Fu_): [student_details.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb)
 - A notebook shows when grouped tasks, the totals numbers of: students assigned to the task, already submitted solutions, already evaluated solutions and pending for evaluation. (contributed by _Songqiao Han_, _Chao Fu_): [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb)
 
+## Usage
+### Packages 
+- **os**
+- **pandas**
+- **numpy**
+- **random**
+- **sqlalchemy**
+- ****
