@@ -1,7 +1,7 @@
 # Essentials for Data Science
  <a href='https://github.com/hansq358/EfDS_assignment_DBSQL-4'><img src='Leiden.png' align="right" height="139" /></a>
 
-# Group 4
+## Group 4
 **Members: _Songqiao Han_ (s2889803), _Dun Dai_ (s2777607), _Chao Fu_ (s2918668), _Chentao Liu_ (s3083853), _Zijin Gu_ (s2797658), _Xintong Jiang_ (s2898144).<br/>
 All members of our group contributed eqaully.<br/>**
 ## Introduction
