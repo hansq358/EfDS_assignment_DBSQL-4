@@ -17,7 +17,7 @@ In this assignment, we aim to create a database using SQLAlchemy and implement f
 - A pure Python.py file containing definitions of the main project class **GradeDB** providing
 access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chentao Liu_): [gradedb.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/gradedb.py)
 - A pdf displaying the schema of the database relationships. (contributed by all group members): [schema.pdf](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.pdf)
-- A pure Python file with SQLAlchemy description of the database tables (contributed by _Xintong Jiang_, _Chentao Liu_): [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py)
+- A pure Python file with **[SQLAlchemy](https://www.sqlalchemy.org/)** description of the database tables (contributed by _Xintong Jiang_, _Chentao Liu_): [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py)
 - A notebook which initializes the database with some random generating content (contributed by _Chentao Liu_, _Dun Dai_, _Zijin Gu_, _Xintong Jiang_): [random_init.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/random_init.ipynb)
 
 ### Database summary
