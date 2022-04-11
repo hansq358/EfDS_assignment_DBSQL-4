@@ -12,7 +12,7 @@ In this assignment, we aim to create a database using **[SQLAlchemy](https://www
 **(4)** At last, there are summaries for students themselves and for teachers. Files including: [student_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_summary.ipynb), [student_detail.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb), [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb).<br/>
 
 ## Project Files
-### Database content
+### Database content/access specification
 - A github markdown file shortly describing the project (contributed by _Songqiao Han_, _Dun Dai_, _Zijin Gu_): [readme.md](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/README.md)
 - A pure Python.py file containing definitions of the main project class **GradeDB** providing
 access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chentao Liu_): [gradedb.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/gradedb.py)
@@ -20,7 +20,7 @@ access methods to the database (contibuted by _Dun Dai_, _Songqiao Han_, _Chenta
 - A pure Python file with **[SQLAlchemy](https://www.sqlalchemy.org/)** description of the database tables (contributed by _Xintong Jiang_, _Chentao Liu_): [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py)
 - A notebook which initializes the database with some random generating content (contributed by _Chentao Liu_, _Dun Dai_, _Zijin Gu_, _Xintong Jiang_): [random_init.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/random_init.ipynb)
 
-### Database summary
+### Database summary tables
 - A notebook shows a general summary to students which mainly including total grades for evaluated reports (contributed by _Songqiao Han_, _Chao Fu_): [student_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_summary.ipynb)
 - A notebook shows all details of students which mainly including scores for each evaluated question (contributed by _Songqiao Han_, _Chao Fu_): [student_details.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/student_details.ipynb)
 - A notebook shows when grouped tasks, the totals numbers of: students assigned to the task, already submitted solutions, already evaluated solutions and pending for evaluation. (contributed by _Songqiao Han_, _Chao Fu_): [teacher_summary.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/teacher_summary.ipynb)
