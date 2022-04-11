@@ -5,7 +5,7 @@
 **Members: _Songqiao Han_ (s2889803), _Dun Dai_ (s2777607), _Chao Fu_ (s2918668), _Chentao Liu_ (s3083853), _Zijin Gu_ (s2797658), _Xintong Jiang_ (s2898144).<br/>
 All members of our group contributed eqaully.<br/>**
 ## Introduction
-In this assignment, we aim to create a database using SQLAlchemy and implement functions of adding, querying and summary. manage it through what we have learned in order to _**MAINTAIN**_ questions, answers, evaluations and grades. <br/>
+In this assignment, we aim to create a database using SQLAlchemy and implement functions of adding, querying and summary in order to _**MAINTAIN**_ questions, answers, evaluations and grades. <br/>
 **(1)** The first step is to create a [schema.pdf](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.pdf) to show all the requiring database relationships, then based on these relationships, there is a [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py) in the python to show the schema. <br/>
 **(2)** The second step is about [gradedb.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/gradedb.py) which includes all the methods we want, including **addStudent()**, **addQuestion()**, **addTask()**, **addAssignment()**, **newSubmission()**, **addAnswer()**, **commitSubmission()**, **newEvaluation()**, **addScore()**, **commitEvaluation()**. These methods can help us to add students data to the database. <br/>
 **(3)** Third, after building the database, we generate a [random_init.ipynb](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/random_init.ipynb) file to generate random data and then add them into our created database.<br />
