@@ -3,7 +3,7 @@
 
 ## Authors
 _Songqiao Han_ (s2889803), _Dun Dai_ (s2777607), _Chao Fu_ (s2918668), _Chentao Liu_ (s3083853), _Zijin Gu_ (s2797658), _Xintong Jiang_ (s2898144).<br/>
-We hereby declare that all group members contributed equally to the assignment.<br/>
+We hereby declare that **all group members contributed equally to the assignment.**<br/>
 ## Introduction
 In this assignment, we aim to create a database using **[SQLAlchemy](https://www.sqlalchemy.org/)** and implement functions of adding, querying and summary in order to _**MAINTAIN**_ questions, answers, evaluations and grades. <br/>
 **(1)** The first step is to create a [schema.pdf](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.pdf) to show all the requiring database relationships, then based on these relationships, there is a [schema.py](https://github.com/hansq358/EfDS_assignment_DBSQL-4/blob/main/schema.py) in the python to show the schema. <br/>
