@@ -1,4 +1,4 @@
-# Essentials for Data Science Assignment
+# Essentials for Data Science Assignment (Group 4)
  <a href='https://github.com/hansq358/EfDS_assignment_DBSQL-4'><img src='Leiden.png' align="right" height="139" /></a>
 
 ## Authors
